@@ -6,4 +6,5 @@
 
 ![alt text](https://raw.githubusercontent.com/moeC137/Ikamag_RET-G_repair/main/connectors.png)
 
-![Youtube Repair video](https://www.youtube.com/watch?v=RBznn05_J8c)
+Repair Video:
+https://www.youtube.com/watch?v=RBznn05_J8c
