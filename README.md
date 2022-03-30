@@ -5,3 +5,5 @@
 ![alt text](https://raw.githubusercontent.com/moeC137/Ikamag_RET-G_repair/main/external_temp.png)
 
 ![alt text](https://raw.githubusercontent.com/moeC137/Ikamag_RET-G_repair/main/connectors.png)
+
+![alt text](https://www.youtube.com/watch?v=RBznn05_J8c)
